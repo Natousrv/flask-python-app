@@ -1,0 +1,11 @@
+my_flask_app/
+│
+├── app.py          # Fichier principal pour exécuter l'application Flask
+├── routes.py       # Fichier contenant les définitions de routes
+├── __init__.py     # Fichier pour initialiser le package Python (optionnel mais utile)
+├── requirements.txt# Liste des dépendances Python
+├── structure       # la structure du code python 
+├── templates/      # Dossier pour les templates HTML (optionnel)
+│   ├── index.html  # Exemple de template HTML (optionnel)
+│   └── about.html  # Exemple de template HTML (optionnel)
+└── static/         # Dossier pour les fichiers statiques (CSS, JavaScript, images) (optionnel)
